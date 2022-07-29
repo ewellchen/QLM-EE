@@ -9,7 +9,7 @@ Quantum language models (QLMs) in which words are modeled as a quantum superposi
 
 ## Prerequisite
 
-Keras == 1.1.0
+Keras == 2.2.4
 
 ## Training and Testing
 
