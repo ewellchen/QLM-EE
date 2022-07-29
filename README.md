@@ -1,6 +1,6 @@
 # Quantum language model with entanglement embedding for question answering
 
-This repository contains Keras implementation for QLM-EE. This is an extension of https://github.com/wabyking/qnn. Thanks to Qiuchi and Benyou for their codes.
+This repository contains Keras implementation for QLM-EE. This is an extension of https://github.com/wabyking/qnn. Thanks to Qiuchi and Waby for their excellent codes.
 
 A Keras implementation of the paper on https://ieeexplore.ieee.org/abstract/document/9652465.
 **Abstract:**
