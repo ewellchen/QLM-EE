@@ -12,6 +12,14 @@ Quantum language models (QLMs) in which words are modeled as a quantum superposi
 Keras == 2.2.4
 
 ## Training and Testing
+To train the model:
+```
+python main.py
+```
+To test the model:
+```
+python load_best_model.py
+```
 
 ## License
 
