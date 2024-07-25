@@ -36,6 +36,9 @@ If you find our work useful in your research, please consider citing:
   title={Quantum language model with entanglement embedding for question answering},
   author={Chen, Yiwei and Pan, Yu and Dong, Daoyi},
   journal={IEEE Transactions on Cybernetics},
+  volume={53},
+  number={6},
+  pages={3467--3478},
   year={2021},
   publisher={IEEE}
 }
